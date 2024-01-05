@@ -1,0 +1,33 @@
+C:\Users\imsep\OneDrive\Desktop\Basic Computer simulator\Basic Computer simulator - Amirreza Hosseini\bin\Release\win1.exe.config
+C:\Users\imsep\OneDrive\Desktop\Basic Computer simulator\Basic Computer simulator - Amirreza Hosseini\bin\Release\win1.exe
+C:\Users\imsep\OneDrive\Desktop\Basic Computer simulator\Basic Computer simulator - Amirreza Hosseini\bin\Release\win1.pdb
+C:\Users\imsep\OneDrive\Desktop\Basic Computer simulator\Basic Computer simulator - Amirreza Hosseini\obj\Release\Mano.csproj.AssemblyReference.cache
+C:\Users\imsep\OneDrive\Desktop\Basic Computer simulator\Basic Computer simulator - Amirreza Hosseini\obj\Release\win1.Form1.resources
+C:\Users\imsep\OneDrive\Desktop\Basic Computer simulator\Basic Computer simulator - Amirreza Hosseini\obj\Release\win1.Properties.Resources.resources
+C:\Users\imsep\OneDrive\Desktop\Basic Computer simulator\Basic Computer simulator - Amirreza Hosseini\obj\Release\Mano.csproj.GenerateResource.cache
+C:\Users\imsep\OneDrive\Desktop\Basic Computer simulator\Basic Computer simulator - Amirreza Hosseini\obj\Release\Mano.csproj.CoreCompileInputs.cache
+C:\Users\imsep\OneDrive\Desktop\Basic Computer simulator\Basic Computer simulator - Amirreza Hosseini\obj\Release\win1.exe
+C:\Users\imsep\OneDrive\Desktop\Basic Computer simulator\Basic Computer simulator - Amirreza Hosseini\obj\Release\win1.pdb
+C:\Users\imsep\OneDrive\Desktop\Basic Computer simulator\Basic Computer simulator - Amirreza Hosseini\obj\Release\win1.Form2.resources
+C:\Users\imsep\OneDrive\Desktop\sepehr ebadi_rezvan abedin\obj\Release\Mano.csproj.AssemblyReference.cache
+C:\Users\imsep\OneDrive\Desktop\sepehr ebadi_rezvan abedin\obj\Release\win1.Form2.resources
+C:\Users\imsep\OneDrive\Desktop\sepehr ebadi_rezvan abedin\obj\Release\win1.Form1.resources
+C:\Users\imsep\OneDrive\Desktop\sepehr ebadi_rezvan abedin\obj\Release\Mano.csproj.GenerateResource.cache
+C:\Users\imsep\OneDrive\Desktop\sepehr ebadi_rezvan abedin\obj\Release\win1.exe
+C:\Users\imsep\OneDrive\Desktop\sepehr ebadi_rezvan abedin\obj\Release\win1.pdb
+C:\Users\imsep\OneDrive\Desktop\sepehr ebadi_rezvan abedin\bin\Release\win1.exe.config
+C:\Users\imsep\OneDrive\Desktop\sepehr ebadi_rezvan abedin\bin\Release\win1.exe
+C:\Users\imsep\OneDrive\Desktop\sepehr ebadi_rezvan abedin\bin\Release\win1.pdb
+C:\Users\imsep\OneDrive\Desktop\sepehr ebadi_rezvan abedin\obj\Release\win1.Properties.Resources.resources
+C:\Users\imsep\OneDrive\Desktop\sepehr ebadi_rezvan abedin\obj\Release\Mano.csproj.CoreCompileInputs.cache
+E:\IUT\Lessons\Semester 4th\Architecture of Computer\sepehr ebadi_rezvan abedin\sepehr ebadi_rezvan abedin\bin\Release\win1.exe.config
+E:\IUT\Lessons\Semester 4th\Architecture of Computer\sepehr ebadi_rezvan abedin\sepehr ebadi_rezvan abedin\bin\Release\win1.exe
+E:\IUT\Lessons\Semester 4th\Architecture of Computer\sepehr ebadi_rezvan abedin\sepehr ebadi_rezvan abedin\bin\Release\win1.pdb
+E:\IUT\Lessons\Semester 4th\Architecture of Computer\sepehr ebadi_rezvan abedin\sepehr ebadi_rezvan abedin\obj\Release\Mano.csproj.AssemblyReference.cache
+E:\IUT\Lessons\Semester 4th\Architecture of Computer\sepehr ebadi_rezvan abedin\sepehr ebadi_rezvan abedin\obj\Release\win1.Form2.resources
+E:\IUT\Lessons\Semester 4th\Architecture of Computer\sepehr ebadi_rezvan abedin\sepehr ebadi_rezvan abedin\obj\Release\win1.Form1.resources
+E:\IUT\Lessons\Semester 4th\Architecture of Computer\sepehr ebadi_rezvan abedin\sepehr ebadi_rezvan abedin\obj\Release\win1.Properties.Resources.resources
+E:\IUT\Lessons\Semester 4th\Architecture of Computer\sepehr ebadi_rezvan abedin\sepehr ebadi_rezvan abedin\obj\Release\Mano.csproj.GenerateResource.cache
+E:\IUT\Lessons\Semester 4th\Architecture of Computer\sepehr ebadi_rezvan abedin\sepehr ebadi_rezvan abedin\obj\Release\Mano.csproj.CoreCompileInputs.cache
+E:\IUT\Lessons\Semester 4th\Architecture of Computer\sepehr ebadi_rezvan abedin\sepehr ebadi_rezvan abedin\obj\Release\win1.exe
+E:\IUT\Lessons\Semester 4th\Architecture of Computer\sepehr ebadi_rezvan abedin\sepehr ebadi_rezvan abedin\obj\Release\win1.pdb
